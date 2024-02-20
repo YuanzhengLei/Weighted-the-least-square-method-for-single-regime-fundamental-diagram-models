@@ -1,6 +1,6 @@
 # Weighted-least-square-method-for-single-regime-fundamental-diagram-models
-This code reproduces the weighted least square method presented in "On the fundamental diagram for freeway traffic: A novel calibration approach for single-regime models."
-To cite the origin paper, please take a look at the transportation research part B: Methodology paper. Sample Bibtex is given below:
+<br> This code reproduces the weighted least square method presented in "On the fundamental diagram for freeway traffic: A novel calibration approach for single-regime models."
+<br> To cite the origin paper, please take a look at the transportation research part B: Methodology paper. Sample Bibtex is given below:
 @article{QU201591,
 title = {On the fundamental diagram for freeway traffic: A novel calibration approach for single-regime models},
 journal = {Transportation Research Part B: Methodological},
